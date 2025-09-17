@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div style="display: flex;">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyeminleeee&utm_content=farm" style="flex: 1;">
     <img
-      src="https://render.gitanimals.org/farms/hyeminleeee?cache_bust=1"
+      src="https://render.gitanimals.org/farms/hyeminleeee"
       style="width: 49%; height: auto;"
       alt="farm"
     />
