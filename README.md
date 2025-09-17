@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="display: flex;">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyeminleeee&utm_content=farm" style="flex: 1;">
+    <img
+      src="https://render.gitanimals.org/farms/hyeminleeee?cache_bust=1"
+      style="width: 49%; height: auto;"
+      alt="farm"
+    />
+  </a>
+
+  <a href="https://www.gitanimals.org/" style="flex: 1;">
+    <img
+      src="https://render.gitanimals.org/guilds/740958664789626902/draw?cache_bust=1"
+      style="width: 49%; height: auto;"
+      alt="gitanimals"
+    />
+  </a>
+</div>
