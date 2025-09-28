@@ -1,4 +1,10 @@
 ## Hi there 👋
+<!-- 헤더 타이핑 배너 -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=#000080&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hyemin+%F0%9F%91%8B;Learning+Cloud+%2F+Infra;Welcome+to+my+GitHub!"/>
+  </a>
+</p>
 
 <h3 align="center">🗣️ Top Languages Card 🗣️</h3>
 <div align="center">
